@@ -2,7 +2,7 @@
 
 💻 Estudante de Tecnologia e Desenvolvedor em formação  
 
-📍 São Paulo - SP  
+📍 São Bernardo do Campo - SP  
 
 
 ## 🧠 Sobre mim
