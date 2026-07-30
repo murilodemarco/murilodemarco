@@ -8,7 +8,7 @@
 
 
 ## 🧠 Sobre mim
-Engenheiro de Controle e Automação em transição para a área de Tecnologia, atualmente cursando Análise e Desenvolvimento de Sistemas. Tenho experiência em automação predial, atuando com sistemas BMS, integração de sistemas, programação e comissionamento. Minha trajetória desenvolveu habilidades em raciocínio lógico, análise de processos e resolução de problemas, competências que aplico no desenvolvimento de soluções em tecnologia.
+Engenheiro de Controle e Automação cursando atualmente Análise e Desenvolvimento de Sistemas. Tenho experiência em automação predial, atuando com sistemas BMS, integração de sistemas, programação e comissionamento. Minha trajetória desenvolveu habilidades em raciocínio lógico, análise de processos e resolução de problemas, competências que aplico no desenvolvimento de soluções em tecnologia.
 
 Aqui no GitHub compartilho projetos, estudos e experiências que fazem 
 parte da minha evolução na área de TI.
@@ -17,10 +17,6 @@ parte da minha evolução na área de TI.
 - 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas  
 - 🎓 Bacharel em Engenharia de Controle e Automação  
 - 🎓 Técnico em Mecatrônica
-
-## 📈 Objetivo
-Busco minha primeira oportunidade como desenvolvedor (estágio ou júnior), onde eu possa aplicar meus conhecimentos, 
-evoluir tecnicamente e contribuir com a equipe.
 
 
 ## 📫 Contato
