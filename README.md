@@ -103,16 +103,19 @@ parte da minha evolução na área de TI.
 <br/>
 <br/>
 
-## 📊 Estatísticas
+### 📊 Estatísticas
 
 <p>
   <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=murilodemarco&show_icons=true&theme=merko&include_all_commits=true&count_private=true&locale=pt-br"
+    align="left" 
+    width="48%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=murilodemarco&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&cache_seconds=86400"
   />
 
   <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilodemarco&layout=compact&theme=merko&langs_count=8&locale=pt-br"
+    align="left" 
+    height="200"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=murilodemarco&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400"
   />
 </p>
+ 
